@@ -1,3 +1,3 @@
-# 25
+# 78125
 
-Made just for fun. [Play it here!](http://thereal21.github.io/25/)
+Made just for fun. [Play it here!](http://thereal23.github.io/78125/)
