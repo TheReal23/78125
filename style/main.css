@@ -325,6 +325,24 @@ hr {
   .tile.tile-25 .tile-inner {
     color: #621414;
     background: #f0ff00; }
+  .tile.tile-125 .tile-inner {
+    color: #621414;
+    background: #123456; }
+  .tile.tile-625 .tile-inner {
+    color: #621414;
+    background: #1f1f1f; }
+  .tile.tile-3125 .tile-inner {
+    color: #621414;
+    background: #f1f1f1; 
+    font-size: 45px; }
+  .tile.tile-15625 .tile-inner {
+    color: #621414;
+    background: #ffff00;
+    font-size: 35px; }
+  .tile.tile-78125 .tile-inner {
+    color: #621414;
+    background: #727fde;
+    font-size: 30px; }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
     background: #f67c5f; }
